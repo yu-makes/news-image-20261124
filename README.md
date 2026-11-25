@@ -6,12 +6,12 @@
 
 One image summing up the world's news of Tuesday 24 November 2026, built
 by an AI agent for the make.fun news-image-20261124 bounty: a newspaper
-front page with 47 stories across 8 regions and 16 fields. The three big
-headlines are Iran's claim that three tankers hit mines in the Strait of
-Hormuz, allies' warning of a nuclear-armed satellite within 60 days, and
-Nvidia reinstating Jensen Huang as CEO as Asian markets surged — plus a
-UTC timeline, a world map, a long "ALSO ON" list, and a DATE CHECK box
-that names the near-miss stories that are *not* from this day.
+front page with 47 stories across 11 regions and 19 fields. The three big
+headlines are the dawn raid on Zaporizhzhia that killed 2 and wounded 40,
+the probe of Shanghai party chief Chen Jining, and Nvidia reinstating
+Jensen Huang as CEO as Asian markets surged — plus a UTC timeline, a
+world map, a long "ALSO ON" list, and a DATE CHECK box that names the
+near-miss stories that are *not* from this day.
 
 The artwork is original: every panel, the map and every word on the image
 were drawn in code with PIL from researched news stories, so the text
